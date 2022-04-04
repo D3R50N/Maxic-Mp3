@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icones/fiber_smart_record_48px.png</file>
+        <file>Icones/music_folder_48px.png</file>
+        <file>Icones/online_48px.png</file>
+        <file>Icones/opened_folder_48px.png</file>
+        <file>Icones/rss_48px.png</file>
+        <file>Icones/services_48px.png</file>
+        <file>Icones/circled_play_48px.png</file>
+        <file>Icones/end_48px.png</file>
+        <file>Icones/pause_button_48px.png</file>
+        <file>Icones/repeat_48px.png</file>
+        <file>Icones/repeat_one_48px.png</file>
+        <file>Icones/shuffle_48px.png</file>
+        <file>Icones/skip_to_start_48px.png</file>
+        <file>Icones/stop_48px.png</file>
+        <file>Icones/return_48px.png</file>
+        <file>Icones/micro_96px.png</file>
+        <file>Icones/micro_100px.png</file>
+    </qresource>
+</RCC>
